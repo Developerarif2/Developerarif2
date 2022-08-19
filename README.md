@@ -1,8 +1,8 @@
-#### Hi 👋, I'm Ariful
+#### Hi 👋, I'm Ariful 
+##### **Android Apps Developer**
 
 [![](https://visitcount.itsvg.in/api?id=Developerarif2&icon=0&color=9)](https://visitcount.itsvg.in)
 
-#### ***Android Apps Development*** 
 - 🔭 I’m currently working on **Android Apps Development**
 
 - 🌱 I’m currently learning **Javascript**
