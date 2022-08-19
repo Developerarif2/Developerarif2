@@ -1,6 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=Developerarif2&icon=0&color=10)](https://visitcount.itsvg.in)
-
-***Senior Android Developer***
+[![](https://visitcount.itsvg.in/api?id=Developerarif2&icon=0&color=12)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on **Android Apps Development**
 
