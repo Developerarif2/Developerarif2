@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Javascript**
 
+- 📫 How to reach me **fsdfg@gmail.com**
+
 ### 🌐 Social:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Developerarif2) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Developerarif2) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/Developerarif2) 
 
