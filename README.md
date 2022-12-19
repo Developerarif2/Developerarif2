@@ -1,13 +1,9 @@
-#### Hi 👋, I'm Ariful 
-##### **Android Apps Developer**
+#### Hi 👋, I'm Jonathan Garcia
+##### **Senior Java/ Spring Boot developer**
 
-[![](https://visitcount.itsvg.in/api?id=Developerarif2&icon=0&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=jonathangarcia414&icon=0&color=9)](https://visitcount.itsvg.in)
 
-- 🔭 I am currently working as a **Android Apps Developer**
-
-- 🌱 I’m currently learning **Javascript**
-
-- 📫 How to reach me **fsdfg@gmail.com**
+- 🔭 I am currently working as a **Senior Android Developer**
 
 ### 🌐 Social:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Developerarif2) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Developerarif2) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/Developerarif2) 
